@@ -22,18 +22,6 @@ Este proyecto permite a los administradores del restaurante realizar tareas de g
 - **Patrón de Diseño**: MVC (Modelo-Vista-Controlador).
 - **Control de Versiones**: Git y GitHub.
 
-## 📂 Estructura del Proyecto
-
-La estructura de carpetas sigue el patrón MVC para organizar el código de manera modular y escalable.
-
-plaintext
-SGLAAP/
-├── config/             # Archivos de configuración de la base de datos
-├── controllers/        # Controladores de CRUD y lógica del sistema
-├── models/             # Modelos que representan las entidades del sistema (Empleados, Horarios, Productos, Menús)
-├── views/              # Vistas HTML y plantillas para la interfaz del usuario
-├── assets/             # Recursos estáticos (CSS, JavaScript, imágenes)
-└── index.php           # Archivo de inicio que redirige a la página principal de administración
 
 
 ## 📑 Uso
